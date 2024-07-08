@@ -1,17 +1,16 @@
-<h2>Hey 👋, I'm <a href="https://stanleylim.me/">Shobhit</a></h2>
+<h2>Hey 👋, I'm <a href="https://shobhit-garg.netlify.app/">Shobhit</a></h2>
 <p>I'm currently a software engineer at <strong><a href="https://locus.sh/">Locus</a></strong> and formerly at <strong><a href="https://hashedin.com/">Hashedin By Deloitte</a></strong> based in 🇮🇳 India. I am working on some side projects, learning System Design & playing sports.</p>
-<p><a href="https://shobhit-garg.netlify.app/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/shobhit-garg-30679416a/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> </p>
+<p><a href="https://shobhit-garg.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logoColor=white&label=SG" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/shobhit-garg-30679416a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> </p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
-<li>📝 I <del>regulary</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
-<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
+<li>🔭 I’m currently working on <a href="https://locus.sh/">Locus.sh</a>.</li>
+<li>🧐 Learning about <strong>frontend architectures</strong>, <strong>react</strong>, and a bit of <strong>backend</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Shobhit2806">Github</a>.</li>
+<li>💬 Ping me about <strong>react, nodejs, python or if you want build something together!</strong>.</li>
+<li>📙 Check out my <a href="https://drive.google.com/file/d/1W9BLRf45N9jGFK2FMb47YyW_WjDZM6zV/view">resume</a>.</li>
+<li>🎉 Fun Fact: NA </li>
 </ul>
 <h2>✒️ Recent Posts</h2>
 <details>
