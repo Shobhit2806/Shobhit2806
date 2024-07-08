@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm <a href="https://stanleylim.me/">Shobhit</a></h2>
 <p>I'm currently a software engineer at <strong><a href="https://locus.sh/">Locus</a></strong> and formerly at <strong><a href="https://hashedin.com/">Hashedin By Deloitte</a></strong> based in 🇮🇳 India. I am working on some side projects, learning System Design & playing sports.</p>
-<p><a href="https://shobhit-garg.netlify.app/"><img src="https://img.shields.io/badge/-stanleylim.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/shobhit-garg-30679416a/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> </p>
+<p><a href="https://shobhit-garg.netlify.app/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/shobhit-garg-30679416a/"><img src="https://img.shields.io/badge/-@serbis-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/serbis/" alt="LinkedIn Badge"></a> </p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
