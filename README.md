@@ -5,7 +5,7 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://locus.sh/">Locus.sh</a>.</li>
+<li>🔭 I’m currently working at <a href="https://locus.sh/">Locus.sh</a>.</li>
 <li>🧐 Learning about <strong>frontend architectures</strong>, <strong>react</strong>, and a bit of <strong>backend</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Shobhit2806">Github</a>.</li>
 <li>💬 Ping me about <strong>react, nodejs, python or if you want build something together!</strong>.</li>
